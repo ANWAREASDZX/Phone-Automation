@@ -1,0 +1,6 @@
+{
+  "name": "Phone Automation",
+  "description": "وكيل التحكم الذكي بالهاتف والأتمتة الآمنة دون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

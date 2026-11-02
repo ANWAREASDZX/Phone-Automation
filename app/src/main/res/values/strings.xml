@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Phone Automation</string>
+    <string name="accessibility_service_description">وكيل التحكم الذكي بالهاتف لأتمتة المهام اليومية محلياً بأمان ودون إنترنت</string>
+    <string name="notification_channel_name">خدمة وكيل الأتمتة</string>
+    <string name="notification_channel_desc">إشعار دائم للحفاظ على تشغيل الأتمتة في الخلفية ومنع إيقافها من النظام</string>
+</resources>
